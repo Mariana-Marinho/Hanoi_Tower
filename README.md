@@ -6,7 +6,7 @@ O projeto consiste na implementação de um programa em Assembly x86 para a plat
 
 ### Especificidades
 - Utilização de Recursão;
-- 3 torres e 0-9 pinos;
+- 3 torres e 1-9 pinos;
 
 ---
 
