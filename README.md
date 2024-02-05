@@ -1,12 +1,16 @@
-# Projeto Redes UDP RTC 3.0
+# Projeto Torre de Hanoi - Disciplina: Organização de Computadores e Sistemas Operacionais
 
 ## Sobre o Projeto
 
 O projeto consiste na implementação de um programa em Assembly x86 para a plataforma Windows, que resolve o clássico quebra-cabeça conhecido como Torre de Hanoi. A Torre de Hanoi é um jogo que desafia o jogador a mover uma pilha de N discos, dispostos em ordem decrescente de tamanho, da Torre A para a Torre C, utilizando a Torre B como auxiliar.
 
+![Alt text](https://res.cloudinary.com/dw8z1wgis/image/upload/v1707167160/hanoi_lyk6dy.png "hanoi")
+
+
 ### Especificidades
 - Utilização de Recursão;
 - 3 torres e 1-9 pinos;
+- Assembly x86;
 
 ---
 
