@@ -40,3 +40,10 @@ Ao iniciarmos o desenvolvimento deste projeto, adotamos a metodologia ágil, com
 #### Progresso e Ferramentas Utilizadas:
 O uso do Kanban no Notion nos permitiu acompanhar de perto o progresso de cada tarefa, identificar eventuais gargalos e promover uma comunicação eficaz entre os membros da dupla, junto com o Whatsapp.
 ![Alt text](https://res.cloudinary.com/dw8z1wgis/image/upload/v1707159284/Captura_de_tela_2024-02-05_154833_shjllb.png "tabela")
+
+---
+
+### Colaboradores
+
+- Aldo dos Santos Ferreira Lemos (asfl@cin.ufpe.br)
+- Mariana Marinho da Silva Andrade (mmsa@cin.ufpe.br)
